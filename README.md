@@ -8,7 +8,8 @@ Languages and technologies I’m currently learning: Python, Scikit-learn, ...
 ---
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=dracula" alt="Your GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=John Linh&show_icons=true&theme=dracula" alt="Your GitHub Stats" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=your-github-username&theme=dracula" alt="GitHub Streak" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=dracula" alt="Top Languages" />
+
 </p>
