@@ -7,9 +7,25 @@ Languages and technologies I’m currently learning: Python, Scikit-learn, ...
 
 ---
 
+<!-- Trophy -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Linh-304&show_icons=true&theme=dracula" alt="Your GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=your-github-username&theme=dracula" alt="GitHub Streak" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=dracula" alt="Top Languages" />
+  <img
+    src="https://github-profile-trophy.vercel.app/?username=Linh-304&theme=dracula&no-frame=true&row=1&column=6"
+  />
+</p>
 
+<!-- Streak -->
+<p align="center">
+  <img
+    width="70%"
+    src="https://streak-stats.demolab.com?user=Linh-304&theme=dracula&hide_border=true"
+  />
+</p>
+
+<!-- Activity Graph -->
+<p align="center">
+  <img
+    width="95%"
+    src="https://github-readme-activity-graph.vercel.app/graph?username=Linh-304&theme=dracula&hide_border=true&area=true"
+  />
 </p>
